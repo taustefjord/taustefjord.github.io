@@ -1,0 +1,69 @@
+Body{
+	background-color:gray;
+	font-family: Georgia;
+	background-image: url(bg4.jpg);
+	
+	background-size:cover;
+	margin:0;
+	Padding:0;
+}
+
+#wrap {width:80%;
+		border:1px solid red;
+		margin: 0 auto;}
+
+header img{width:65%;
+background-color:blue;}
+
+header{background-color:#cccccc;
+		text-align: center}
+
+nav{background-color:#101652;
+text-align: center;
+padding: 20px}
+		
+nav li{display: inline;}
+
+nav ul{margin:0;
+	padding:0;}
+
+nav a {color:white;
+		
+		Padding: 20px;
+		margin-right:10px;
+	font-family:Verdana;
+		font-size: 20px;
+		text-decoration:none}
+		
+		
+
+section{background-color:white;
+		padding: 40px;
+		overflow:auto;
+		}
+
+h1{color:#101652;
+font-size:30px;}		
+
+div.box {width: 200px;
+		height: 200px;
+		background-color: orange;
+		border: 10px solid black;
+		padding: 10px;
+		margin: 10px;}
+
+footer{background-color:#d43417;
+padding:10px;
+text-align:center}
+
+.officer {
+	width:30%;
+	float:right;
+	padding: 25px;
+}
+
+
+
+
+
+

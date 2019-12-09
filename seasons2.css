@@ -1,0 +1,101 @@
+CSS
+body {
+   
+    background-color: greenyellow;
+    font-family: geargia;
+    background-image: url(seasonsbg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+#wrap { width: 80%;
+    border: 1px solid white;
+    margin:  0 auto;
+}
+
+header img { width: 100%}
+
+
+header { background-color: #cccccc;
+    text-align: center;
+    font-size: 72px;
+}
+
+nav {
+    background-color: #A9A9A9;
+}
+
+nav li {
+    display: inline;
+   
+}
+
+nav ul{margin: 0;
+padding:0;
+margin-right: 8px;
+font-size: 18px;
+}
+
+nav a {
+    color: white;
+    padding: 18px;
+}
+
+body.fall {
+    background-image: none;
+    background-color: brown;
+}
+body.seasons2summer {
+    background-image: none;
+    background-color: orange;
+}
+body.spring {
+    background-image: none;
+    background-color: greenyellow;
+}
+body.winter {
+    background-image: none;
+    background-color: lightblue;
+}
+
+.fall nav {
+    background-color: greenyellow;
+}
+.winter nav {
+    background-color: green;
+}
+.spring nav {
+    background-color: silver;
+}
+.summer nav {
+    background-color: #9b871c;
+}
+
+section {
+    background-color: white;
+    padding: 35px;
+    overflow: auto;
+}
+
+div.box  {
+    width: 180px;
+    height: 180px;
+    background-color: orange;
+    border: 8px solid black;
+    padding: 8px;
+}
+
+footer {
+    background-color: black;
+padding: 8px;
+text-align: center;
+color: white;
+}
+
+.officer {
+    width: 35%;
+    float: left;
+	padding: 22px;
+}
